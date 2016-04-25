@@ -1,10 +1,11 @@
 # Guitte, the git CLI from France - Guitte, le git de France
 
-![logo](https://raw.githubusercontent.com/pichar-v/guitte/master/guitte_de_france.svg)
+![logo](http://i.imgur.com/tntih3D.png)
 
 ## Description
 
 Guitte is a french wrapper, write in Python 3 for the git CLI, intended as a drop-in replacement of classic CLI.
+
 He's inspirated by the Marcel Docker project for the future french sovereign operating system too.
 
 ## Usage
@@ -15,11 +16,15 @@ Type this command in your shell to use `guitte` anywhere on your linux distribut
 $ sudo cp guitte guitte.py /usr/bin/.
 ```
 
+-
+
 Then, when it's finish, you can run commands using `guitte` prefix:
 
 ```bash
 $ guitte poule
 ```
+
+-
 
 Some examples:
 
