@@ -43,7 +43,7 @@ The photoshop CS6 expert [@motet-a](https://github.com/motet-a).
 
 ## License and copyright
 
-Copyright © 2016 Valentin Pichard. All rights reserved.
+Copyright © 2016 (see AUTHORS file). All rights reserved.
 
 Non-third party files are licensed under the LPRAB; terms and conditions can be
 found at:
