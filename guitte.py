@@ -4,7 +4,27 @@ import os
 import sys
 
 TRANSLATIONS = {
+    'copie-colle': 'clone',
+    'initialisation': 'init',
+    'ajout': 'add',
+    'déplace': 'mv',
+    'réinitialisation': 'reset',
+    'enlève': 'rm',
+    'couper-en-deux': 'bisect',
+    'de-raisin': 'grep',
+    'bûche': 'log',
+    'chaud': 'show',
+    'état': 'status',
+    'rameau': 'branch',
+    'change-arbre': 'checkout',
+    'commettre': 'commit',
+    'différence': 'diff',
+    'fusion': 'merge',
+    'refais': 'rebase',
+    'graffiti': 'tag',
+    'récupère': 'fetch',
     'poule': 'pull',
+    'pousse': 'push'
 }
 
 def main_func():
