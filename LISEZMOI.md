@@ -4,9 +4,9 @@
 
 ## Description
 
-Guitte is a french wrapper, write in Python 3 for the git CLI, intended as a drop-in replacement of classic CLI.
+Guitte is a french wrapper, written in Python 3 for the git CLI, intended as a drop-in replacement of classic CLI.
 
-He's inspirated by the Marcel Docker project for the future french sovereign operating system too.
+It's inspired by the Marcel Docker project, for the future french sovereign operating system.
 
 ## Usage
 
@@ -18,7 +18,7 @@ $ sudo cp guitte guitte.py /usr/bin/.
 
 -
 
-Then, when it's finish, you can run commands using `guitte` prefix:
+Then, when it's over, you can run commands using `guitte` prefix:
 
 ```bash
 $ guitte poule
