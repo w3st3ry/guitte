@@ -1,6 +1,6 @@
 # Guitte, the git CLI from France - Guitte, le git de France
 
-![logo](http://i.imgur.com/tntih3D.png)
+![logo](http://i.imgur.com/9xDlOh4.png)
 
 ## Description
 
@@ -40,3 +40,14 @@ Some examples:
 The [original project](https://github.com/brouberol/marcel/), source of inspiration. Created by [@brouberol](https://github.com/brouberol).
 
 The photoshop CS6 expert [@motet-a](https://github.com/motet-a).
+
+## License and copyright
+
+Copyright © 2016 Valentin Pichard. All rights reserved.
+
+Non-third party files are licensed under the LPRAB; terms and conditions can be
+found at:
+
+```bash
+    http://sam.zoy.org/lprab/
+```
