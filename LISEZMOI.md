@@ -18,7 +18,7 @@ $ sudo cp guitte guitte.py /usr/bin/.
 
 -
 
-Then, when it's over, you can run commands using `guitte` prefix:
+Then, when it's done, you can run commands using `guitte` prefix:
 
 ```bash
 $ guitte poule
