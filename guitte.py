@@ -9,7 +9,7 @@ USAGE_STRING = """usage : guitte [--version] [--help] [-C <path>] [-c name=value
        [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
        <command> [<args>]
 
-Ci-dessous les commandes Git habituelles dans diverses situations :
+Ci-dessous les commandes Guitte habituelles dans diverses situations :
 
 démarrer une zone de travail (voir aussi : git help tutorial)
   copie-colle      Cloner un dépôt dans un nouveau répertoire
@@ -18,11 +18,11 @@ démarrer une zone de travail (voir aussi : git help tutorial)
 travailler sur la modification actuelle (voir aussi : git help revisions)
   ajout            Ajouter le contenu de fichiers dans l'index
   déplace          Déplacer ou renommer un fichier, un répertoire, ou un lien symbolique
-  réinitialisation Réinitialiser la HEAD courante à l'état spécifié
+  réinitialisation Réinitialiser la TÊTE courante à l'état spécifié
   enlève           Supprimer des fichiers de la copie de travail et de l'index
 
 examiner l'historique et l'état (voir aussi : git help revisions)
-  couper-en-deux   Trouver par recherche binaire la modification qui a introduit un bogue
+  couper-en-deux   Trouver par recherche dichotomique la modification qui a introduit un bogue
   de-raisin        Afficher les lignes correspondant à un motif
   bûche            Afficher l'historique des validations
   chaud            Afficher différents types d'objets
@@ -34,7 +34,7 @@ agrandir, marquer et modifier votre historique
   commettre        Enregistrer les modifications dans le dépôt
   différence       Afficher les changements entre les validations, entre validation et copie de travail, etc
   fusion           Fusionner deux ou plusieurs historiques de développement ensemble
-  refais           Réapplication des commits sur le sommet de l'autre base
+  refais           Réapplication des validations sur le sommet de l'autre base
   graffiti         Créer, lister, supprimer ou vérifier un objet d'étiquette signé avec GPG
 
 collaborer (voir aussi : git help workflows)
