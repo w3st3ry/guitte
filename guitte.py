@@ -36,6 +36,7 @@ agrandir, marquer et modifier votre historique
   fusion           Fusionner deux ou plusieurs historiques de développement ensemble
   refais           Réapplication des validations sur le sommet de l'autre base
   graffiti         Créer, lister, supprimer ou vérifier un objet d'étiquette signé avec GPG
+  cueillette-de-cerises Applique les changements introduits par certaines validations prééxistantes
 
 collaborer (voir aussi : git help workflows)
   récupère         Télécharger les objets et références depuis un autre dépôt
@@ -67,7 +68,8 @@ TRANSLATIONS = {
     'graffiti': 'tag',
     'récupère': 'fetch',
     'poule': 'pull',
-    'pousse': 'push'
+    'pousse': 'push',
+    'cueillette-de-cerises': 'cherry-pick'
 }
 
 def usage():
