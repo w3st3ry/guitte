@@ -16,15 +16,11 @@ Type this command in your shell to use `guitte` anywhere on your linux distribut
 $ sudo cp guitte guitte.py /usr/bin/.
 ```
 
--
-
 Then, when it's done, you can run commands using `guitte` prefix:
 
 ```bash
 $ guitte poule
 ```
-
--
 
 Some examples:
 
